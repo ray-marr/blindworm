@@ -14,7 +14,7 @@ BlindWorm is a German language learning app designed to help you master vocabula
 
 ### Translations & Audio
 * **Get Translations:** Long-press any German word to see its English translation.
-* **Hear Pronunciation:** Tap any German word to hear it spoken aloud (for example, try testing it with a word like *Meerschweinchen*).
+* **Hear Pronunciation:** Tap any German word to hear it spoken aloud.
 
 ### Managing Decks
 * **Create a Deck:** Tap the **`+`** icon on the Flashcards screen.
