@@ -40,6 +40,6 @@ If you encounter bugs, incorrect translations, or errors within the built-in fla
 ### Account Deletion (Outside of app)
 Submit a deletion request via this google form: 
 
-https://forms.gle/GAKE2fSCRRfef6CPA
+[https://forms.gle/GAKE2fSCRRfef6CPA](https://forms.gle/GAKE2fSCRRfef6CPA)
 
 Your account and all data related to that account will be deleted. This includes all created flashcards decks and user progress.
