@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BlindWorm App Guide
+title: App Guide
 permalink: /
 ---
 
