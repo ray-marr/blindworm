@@ -1,1 +1,4 @@
-# Privacy Policy
+---
+layout: page
+title: Privacy Policy
+---
