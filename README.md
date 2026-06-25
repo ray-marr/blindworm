@@ -1,6 +1,7 @@
 ---
 layout: page
 title: BlindWorm App Guide
+permalink: /
 ---
 
 ## About BlindWorm
