@@ -1,0 +1,8 @@
+---
+---
+@import "{{ site.theme }}";
+
+// Hides the "Subscribe via RSS" container from the footer
+.feed-subscribe {
+    display: none !important;
+}
