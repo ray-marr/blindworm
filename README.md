@@ -1,4 +1,7 @@
-# BlindWorm App Guide
+---
+layout: page
+title: BlindWorm App Guide
+---
 
 ## About BlindWorm
 BlindWorm is a German language learning app designed to help you master vocabulary through interactive games, flashcards, and an integrated dictionary.
