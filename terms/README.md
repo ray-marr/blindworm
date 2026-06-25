@@ -1,1 +1,4 @@
-# Terms and Conditions
+---
+layout: page
+title: Terms and Conditions
+---
