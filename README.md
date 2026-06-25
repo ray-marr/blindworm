@@ -32,12 +32,12 @@ If you encounter bugs, incorrect translations, or errors within the built-in fla
 * Use the report button (**flag icon**) found inside each activity.
 * *Note: The app is still a work in progress, and submitting reports directly helps improve the quality of future exercises.*
 
-### Account Deletion (In app)
+### Account Deletion (In the app)
 1. Login into the app
 2. Open your profile settings (top right corner)
 3. Click "Delete account" button
 
-### Account Deletion (Outside of app)
+### Account Deletion (Outside the app)
 Submit a deletion request via this google form: 
 
 [https://forms.gle/GAKE2fSCRRfef6CPA](https://forms.gle/GAKE2fSCRRfef6CPA)
